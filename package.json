@@ -1,7 +1,7 @@
 {
   "name": "nodesample2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Nodejs+mongoDB",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -12,5 +12,17 @@
   "dependencies": {
     "express": "^4.16.3",
     "mongodb": "^3.1.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chirangaw186/BackEnd.git"
+  },
+  "keywords": [
+    "BackEnd"
+  ],
+  "bugs": {
+    "url": "https://github.com/chirangaw186/BackEnd/issues"
+  },
+  "homepage": "https://github.com/chirangaw186/BackEnd#readme"
 }
